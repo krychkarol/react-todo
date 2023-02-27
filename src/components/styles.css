@@ -76,6 +76,23 @@
 .task{
     display: flex;
     flex: 9;
+    user-select: none;
+}
+
+.task_done{
+    text-decoration-line: line-through;
+    text-decoration-color: var(--c1);
+    text-decoration-thickness: 3px;
+}
+
+.task_edit{
+    display: flex;
+    flex: 9;
+    padding: 0;
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+    font-family: 'Orbitron', sans-serif;
 }
 
 .icon_box{

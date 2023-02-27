@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
 
 :root{
-    --c1: #01021d;
+    --c1: #030433;
     --c2: #1B25F2; 
     --c3: #151EBF; 
     --c4: #0f136e;
     --c5: #d9d9d9; 
-    --c6: #919191; 
+    --c6: #919191;
 }
 
 .App{
